@@ -11,3 +11,4 @@ The [report](https://drive.google.com/file/d/1fzDxQJYzN-v4l-awmIjove0WJ48IAj6u/v
 * OpenAI Gym
 * MuJoCo
 
+Run `loading.py` for training
